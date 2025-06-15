@@ -2,7 +2,7 @@ This is a version of the ComfyUI-frontend I made with a built in code editor, my
 or create node easier in ComfyUI and to help demystify what nodes are and what they do by dynamically pulling up the code for new users. 
 Currently most code changes were made in the node context menu adding the option to edit the nodes code, and I made a CodeEditor.vue to run the code editor. 
 The code editor I setup to only work with exposed code in custom nodes, so people don't brake core nodes in ComfyUI. 
-If you do what to try and edit the Built in K sampler currently you would need to make a custom node copy.
+If you do what to try and edit the Built in K sampler for example, currently you would need to make a custom node copy of it and edit that.
 
 ![image](https://github.com/user-attachments/assets/a5e026d9-9c11-45f5-8553-97fa0a446b56) 
 ![image](https://github.com/user-attachments/assets/649a1f49-da31-4c69-81c3-b0aea4bfc192)
